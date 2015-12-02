@@ -1,0 +1,30 @@
+{
+  "name": "proofn-website",
+  "version": "1.0.0",
+  "description": "proofn landing page",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ianagustiawan@github.com/ianagustiawan/proofn-website.git"
+  },
+  "keywords": [
+    "proofn",
+    "email",
+    "message",
+    "mistake",
+    "thoughs",
+    "group"
+  ],
+  "author": "Ian Agustiawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ianagustiawan/proofn-website/issues"
+  },
+  "homepage": "https://github.com/ianagustiawan/proofn-website#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
